@@ -1,0 +1,1 @@
+This is sample web service in go using gin framework
